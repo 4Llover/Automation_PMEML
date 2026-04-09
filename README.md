@@ -50,12 +50,10 @@ PEMEL古地磁数据自动化处理工具，包含三大功能模块。
 
 ## 文件结构
 
-```
-D:\software\自动化\GUI版\LJT_Tools\
-├── LJT_Automation_Suite.exe  (打包版本，可分发)
+
+├── LJT_Automation_Suite.exe 
 ├── LJT_Automation_Suite.py   (源代码)
 ├── LJT_Data_Template.xlsx    (数据模板)
-├── CHANGELOG.md             (更新日志)
-└── README.md                (本文件)
+
 ```
 
