@@ -1,6 +1,7 @@
 # LJT Automation Suite v2.0
 
 PEMEL古地磁数据自动化处理工具，包含三大功能模块。
+下载Automation.EXE和数据模板即可使用
 
 ---
 
