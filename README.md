@@ -1,4 +1,4 @@
-# LJT Automation Suite v1.5.0
+# LJT Automation Suite v2.0
 
 专业的古地磁数据自动化处理工具，包含三大功能模块。
 
